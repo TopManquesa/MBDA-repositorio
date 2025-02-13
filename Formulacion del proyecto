@@ -1,0 +1,53 @@
+Formulación del proyecto
+1. Identificación:
+Diego Fabian Andrade – Paula Robinson
+2. Introducción:
+2.1. Tema del proyecto
+La propuesta es la creación de una base de datos para una plataforma de alquiler de apartamentos (un claro ejemplo puede ser Airbnb).
+La idea del proyecto es mantener y administrar la información de los usuarios, las propiedades, los detalles de la reserva y la información del pago de manera organizada y con integridad de los datos; ya que esto facilitara la recuperación de la información del sistema.
+2.2 Organización 
+Nuestro proyecto se llama: StaySinc
+Nuestro logo es:
+ 
+Nuestra misión es: Brindar una base de datos optima a nuestro cliente, siempre teniendo como objetivo darle un producto que se adapte a sus necesidades.
+Personas Interesadas en el Proyecto:
+•	Propietarios de inmuebles: Quieren una forma segura y fácil de alquilar sus espacios.
+•	Huéspedes: Buscan alojamientos cómodos y asequibles.
+•	Equipo técnico: Desarrolladores a cargo de la plataforma.
+•	Administradores: Se encargan de que todo funcione correctamente.
+•	Sistemas de pago: Empresas que gestionan transacciones de manera segura.
+Patrocinadores y su Interés:
+•	Inversores: Financian el proyecto a cambio de beneficios.
+•	Empresas tecnológicas: Pueden apoyar con servidores o herramientas.
+•	Bancos y plataformas de pago: Quieren integrarse para gestionar las transacciones.
+•	Turismo y agencias de viajes: Ven una oportunidad de ampliar sus servicios.
+3. Descripción del proyecto:
+3.1 Problema 
+El alquiler de apartamentos ha crecido exponencialmente con plataformas como lo son Airbnb y con base en esto nos dimos cuenta de que la gestión de reservas, usuarios y pagos no es fácil sin una base de datos correctamente estructurada, adicionalmente un sistema que no tenga suficiente almacenamiento puede generar inconsistencias en la información, dificultades en la gestión de pagos y disponibilidad de propiedades, entre muchas otras dificultades. Con este proyecto esperamos solucionar todos estos problemas y esperamos que las soluciones que le brindemos al cliente se adapten a sus necesidades y objetivos.
+3.2 Objetivos 
+•	Diseñar una base de datos que ayude a gestionar de forma eficiente los datos de los usuarios, las propiedades y las reservas. 
+•	Definir restricciones y relaciones que garanticen la integridad y la seguridad de la información. 
+•	Crear consultas SQL que ayuden a recuperar y gestionar los datos. 
+•	Desarrollar una base de datos escalable que pueda utilizarse para respaldar futuras mejoras.
+Estos objetivos nos van a ser de ayuda para que nuestro producto sea optimo y que en un futuro podamos adaptarnos aún mejor a las necesidades de cada cliente; ya que es nuestra meta principal como negocio. 
+3.3 Alcance
+El proyecto se centrará en la estructura y el funcionamiento de la base de datos, es decir:
+Incluye:
+•	Diseño de la base de datos para manejar usuarios, propiedades, reservas, pagos y reseñas.
+•	Relaciones entre tablas para que la información esté bien organizada.
+•	Consultas SQL para buscar y gestionar datos.
+No incluye:
+•	Aplicación o página web.
+•	Pagos reales con bancos o plataformas.
+•	Integración con mapas o sistemas de turismo.
+3.4 Factores críticos del éxito
+•	Un modelo de base de datos bien diseñado y optimizado.
+•	Consultas SQL eficientes y bien escritas.
+•	Cumplimiento de los requisitos del trabajo final.
+•	Seguridad y fiabilidad en el almacenamiento de datos.
+4. Principales Hitos del Proyecto:
+Estos entregables se eligieron porque ayudan a avanzar de forma ordenada en el proyecto. Primero, se define la estructura de la base de datos con el modelo conceptual. Luego en los ciclos de desarrollo se va creando y mejorando la base de datos con lo más importante.
+
+
+
+
